@@ -20,7 +20,7 @@ Un nouveau document s'ouvre.
 
 # Ouvrez le notebook Taux_de_desabonnement_-_atelier(1)
 
-[Taux_de_desabonnement_-_atelier(1)](/Taux_de_desabonnement_-_atelier(1).ipynd)
+[Taux_de_desabonnement_-_atelier(1)](/Taux_de_desabonnement_-_atelier(1).ipynb)
 
 A travers ce notebook, vous allez pouvoir vous familiariser avec le fameux python et ses univers.
 
