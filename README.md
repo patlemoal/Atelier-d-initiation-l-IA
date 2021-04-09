@@ -27,3 +27,6 @@ A travers ce notebook, vous allez pouvoir vous familiariser avec le fameux pytho
 Nous allons pas à pas découvrir de façon ludique , comment ouvrir un dataset, afficher les données du dataset, faire des graphiques, modifier les couleurs des graphiques, analyser le tableau.
 
 Bonne découverte et à votre avis les clients se désabonnent ou pas ......
+
+
+Céline, Christelle, Jamal, Luigi, Patricia
