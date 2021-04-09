@@ -1,4 +1,4 @@
-# Atelier d'initialisation à l'IA
+# ATELIER D'INITIALISATION A L'IA
 
 # Installation d'Anaconda
 
