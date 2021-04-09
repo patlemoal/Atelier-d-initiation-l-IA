@@ -1,6 +1,6 @@
 # ATELIER D'INITIALISATION A L'IA
 
-# Installation d'Anaconda
+## Installation d'Anaconda
 
 installer Miniconda , une mini version d'Anaconda qui comprend uniquement conda, ses dépendances et Python.
 
@@ -10,15 +10,15 @@ https://www.anaconda.com/products/individual
 
 Une fois Anaconda installé ainsi que ses dépendances, 
 
-ouvrir Jupyter.
+  ouvrir Jupyter.
 
-Sélectionner "New", dans le bouton Python3.
+  Sélectionner "New", dans le bouton Python3.
 
 Un nouveau document s'ouvre.
 
 
 
-# Ouvrez le notebook Taux_de_desabonnement_atelier
+## Ouvrez le notebook Taux_de_desabonnement_atelier
 
 [Taux_de_desabonnement_-_atelier](/Taux_de_desabonnement_atelier.ipynb)
 
