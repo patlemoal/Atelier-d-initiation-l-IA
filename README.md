@@ -18,7 +18,9 @@ Un nouveau document s'ouvre.
 
 
 
-## Ouvrez le notebook Taux_de_desabonnement_atelier en cliquant sur le lien ci dessous
+## Ouvrez le notebook Taux_de_desabonnement_atelier
+
+en cliquant sur le lien ci dessous
 
 [Taux_de_desabonnement_-_atelier](/Taux_de_desabonnement_atelier.ipynb)
 
