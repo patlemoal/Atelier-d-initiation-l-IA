@@ -2,7 +2,7 @@
 
 ## Installation d'Anaconda
 
-installer Miniconda , une mini version d'Anaconda qui comprend uniquement conda, ses dépendances et Python.
+Installer Miniconda , une mini version d'Anaconda qui comprend uniquement conda, ses dépendances et Python.
 
 https://translate.google.com/translate?hl=fr&sl=en&u=https://docs.anaconda.com/anaconda/install/&prev=search&pto=aue
 
